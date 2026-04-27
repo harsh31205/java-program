@@ -1,18 +1,11 @@
-Samajh gaya 👍 tumhare repo me mostly Java practice programs hain (Array, File handling, OOP, etc.). Main tumhe ek clean, professional README bana deta hoon jo GitHub pe achha lage aur recruiter ko bhi samajh aaye.
+📌 Java Practice Programs Repository
 
-Tum isse directly copy karke `README.md` me paste kar sakte ho:
-
----
-
-# 📌 Java Practice Programs Repository
-
-## 📖 Overview
+📖 Overview
 
 This repository contains a collection of Java programs covering fundamental concepts of programming and object-oriented design. It is mainly created for practice and understanding core Java topics.
 
----
 
-## 🚀 Topics Covered
+🚀 Topics Covered
 
 * 🔹 Basic Java Programs
 * 🔹 Array Operations
@@ -22,9 +15,9 @@ This repository contains a collection of Java programs covering fundamental conc
 * 🔹 Simple Interest Calculation
 * 🔹 Pattern & Table Programs
 
----
 
-## 📂 File Structure
+
+📂 File Structure
 
 * `ArrayOperations.java` → Array-related operations
 * `CharStreamExample.java` → Character stream handling
@@ -35,17 +28,15 @@ This repository contains a collection of Java programs covering fundamental conc
 * `GfG.java` → Simple Interest calculation
 * `Animal.java`, `Dog.java`, `Puppy.java` → OOP concepts (Inheritance)
 
----
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 * Java
 * Basic OOP Concepts
 * File Handling APIs
 
----
 
-## ▶️ How to Run
+▶️ How to Run
 
 1. Install Java (JDK)
 2. Clone this repository:
@@ -60,7 +51,7 @@ This repository contains a collection of Java programs covering fundamental conc
 
 
 
-## 🎯 Purpose
+🎯 Purpose
 
 This repository is created for:
 
@@ -70,6 +61,6 @@ This repository is created for:
 
 
 
-## 👨‍💻 Author
+👨‍💻 Author
 
 **Harshit Shrivastava**
