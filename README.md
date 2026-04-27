@@ -41,7 +41,7 @@ This repository contains a collection of Java programs covering fundamental conc
 1. Install Java (JDK)
 2. Clone this repository:
 
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/harsh31205/java-program.git
    
 3. Compile the program:
 
